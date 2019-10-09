@@ -1,7 +1,5 @@
 # coding : utf-8
-
-class licheeee
-    
+   
     
 
 if __name__ == "__main__":
